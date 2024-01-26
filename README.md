@@ -5,14 +5,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+npm intall
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
+
+## About ?
+
+A little app for check if the selected words contains the selected letters.
+For example : letters:"jdbbstdhfpoazjhujo" words: "duos"= true, "single"=false...
+
+Enjoy.
+
+## Tech :
+
+- NextJs
+- shadCn ❤️
+- Framer motion
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
